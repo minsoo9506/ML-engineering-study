@@ -10,7 +10,7 @@
 
 - Airflow Basic (Udemy Lecture) [`review`](https://minsoo9506.github.io/categories/airflow/)
 - Docker Basic (Udemy Lecture) [`review`](https://minsoo9506.github.io/categories/docker/)
-- Machine Learning Designs Patterns (Book) `review`
+- Machine Learning Designs Patterns ([Book](https://www.oreilly.com/library/view/machine-learning-design/9781098115777/)) [`review`](./review/book_ML_design_patterns)
 
 ### ML Product
 
