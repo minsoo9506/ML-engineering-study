@@ -12,6 +12,7 @@
 
 ### MLOps
 
+<<<<<<< HEAD
 |Topic|Resource|Result|
 |:------:|:---:|:---:|
 |Airflow Basic|[Udemy](https://www.udemy.com/course/the-complete-hands-on-course-to-master-apache-airflow/)|[`review`](https://minsoo9506.github.io/categories/airflow/)|
@@ -19,6 +20,11 @@
 |k8s Basic|[Udemy](https://www.udemy.com/course/docker-kubernetes-2022/), [Youtube](https://www.youtube.com/playlist?list=PLApuRlvrZKohaBHvXAOhUD-RxD0uQ3z0c), [Book](http://www.yes24.com/Product/Goods/84927385)|`ing`|
 |Machine Learning Designs Patterns|[Book](https://www.amazon.com/Machine-Learning-Design-Patterns-Preparation/dp/1098115783)|[`review`](./review/book_ML_Design_Patterns/)|
 
+=======
+- Airflow Basic (Udemy Lecture) [`review`](https://minsoo9506.github.io/categories/airflow/)
+- Docker Basic (Udemy Lecture) [`review`](https://minsoo9506.github.io/categories/docker/)
+- Machine Learning Designs Patterns ([Book](https://www.oreilly.com/library/view/machine-learning-design/9781098115777/)) [`review`](./review/book_ML_design_patterns)
+>>>>>>> fe3ad94f663b767614f5fbff4fc48f2aedbb7745
 
 ### ML Product
 
