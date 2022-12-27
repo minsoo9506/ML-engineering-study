@@ -7,8 +7,7 @@
 |Topic|Resource|Result|
 |:------:|:---:|:---:|
 |Linux Command Basic|[Udemy](https://www.udemy.com/course/linux-command-line-colt/), Youtube|[`review`](https://minsoo9506.github.io/04-linux-udemy/)|
-|Shell Script Basic|[Youtube](https://www.youtube.com/playlist?list=PLApuRlvrZKog2XlvGJQh9KY8ePCvUG7Je)|[`review`](https://minsoo9506.github.io/05-shell/)
-|
+|Shell Script Basic|[Youtube](https://www.youtube.com/playlist?list=PLApuRlvrZKog2XlvGJQh9KY8ePCvUG7Je)|[`review`](https://minsoo9506.github.io/05-shell/)|
 
 ### MLOps
 |Topic|Resource|Result|
