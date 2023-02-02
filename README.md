@@ -9,8 +9,8 @@
 |Docker Basic |[Udemy](https://www.udemy.com/course/docker-kubernetes-2022/)|[`review`](https://minsoo9506.github.io/categories/docker/)|
 |k8s Basic|[Udemy](https://www.udemy.com/course/docker-kubernetes-2022/), [Youtube](https://www.youtube.com/playlist?list=PLApuRlvrZKohaBHvXAOhUD-RxD0uQ3z0c), [Book](http://www.yes24.com/Product/Goods/84927385)|[`review`](https://minsoo9506.github.io/categories/kubernetes/)|
 |Machine Learning Designs Patterns|[Book](https://www.amazon.com/Machine-Learning-Design-Patterns-Preparation/dp/1098115783)|[`review`](./review/book_ML_Design_Patterns/)|
-|Designing Machine Learning Systems|[`Book`](https://www.amazon.com/Designing-Machine-Learning-Systems-Production-Ready/dp/1098107969)|`ing`|
-|FastAPI|[`Book`](https://github.com/PacktPublishing/Building-Data-Science-Applications-with-FastAPI)|`ing`|
+|Designing Machine Learning Systems|[Book](https://www.amazon.com/Designing-Machine-Learning-Systems-Production-Ready/dp/1098107969)|`ing`|
+|FastAPI|[Book](https://github.com/PacktPublishing/Building-Data-Science-Applications-with-FastAPI)|[`review`](https://github.com/minsoo9506/FastAPI-study)|
 |FSDL 2022|[Youtube](https://fullstackdeeplearning.com/course/2022/)|[`review`](https://github.com/minsoo9506/FSDL2022-study)|
 
 # Applied project
