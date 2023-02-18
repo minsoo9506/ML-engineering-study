@@ -12,6 +12,8 @@
 |Apache Airflow 기반의 데이터 파이프라인|Book|`ing`|
 
 ## ML, ML System
+|Topic|Resource|Result|
+|:------:|:---:|:---:|
 |Machine Learning Designs Patterns|[Book](https://www.amazon.com/Machine-Learning-Design-Patterns-Preparation/dp/1098115783)|[`review`](./review/book_ML_Design_Patterns/)|
 |Designing Machine Learning Systems|[Book](https://www.amazon.com/Designing-Machine-Learning-Systems-Production-Ready/dp/1098107969)|`ing`|
 |Building Data Science Applications with FastAPI|[Book](https://github.com/PacktPublishing/Building-Data-Science-Applications-with-FastAPI)|[`review`](https://github.com/minsoo9506/FastAPI-study)|
