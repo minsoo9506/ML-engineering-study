@@ -1,24 +1,24 @@
 - ML Production을 위해 필요한 개발, 엔지니어링에 대한 공부 정리 repository
 
 # Study
-## ToolS
+## Tool
 |Topic|Resource|Result|
 |:------:|:---:|:---:|
 |Linux Command Basic|[Udemy](https://www.udemy.com/course/linux-command-line-colt/), Youtube|[`review`](https://minsoo9506.github.io/04-linux-udemy/)|
 |Shell Script Basic|[Youtube](https://www.youtube.com/playlist?list=PLApuRlvrZKog2XlvGJQh9KY8ePCvUG7Je)|[`review`](https://minsoo9506.github.io/05-shell/)|
 |Docker Basic |[Udemy](https://www.udemy.com/course/docker-kubernetes-2022/)|[`review`](https://minsoo9506.github.io/categories/docker/)|
 |k8s Basic|[Udemy](https://www.udemy.com/course/docker-kubernetes-2022/), [Youtube](https://www.youtube.com/playlist?list=PLApuRlvrZKohaBHvXAOhUD-RxD0uQ3z0c), [Book](http://www.yes24.com/Product/Goods/84927385)|[`review`](https://minsoo9506.github.io/categories/kubernetes/)|
+|Building Data Science Applications with FastAPI|[Book](https://github.com/PacktPublishing/Building-Data-Science-Applications-with-FastAPI)|[`repository`](https://github.com/minsoo9506/FastAPI-study)|
 |Airflow Basic|[Udemy](https://www.udemy.com/course/the-complete-hands-on-course-to-master-apache-airflow/)|[`review`](https://minsoo9506.github.io/categories/airflow/)|
 |Apache Airflow 기반의 데이터 파이프라인|Book|`ing`|
 
 ## ML, ML System
 |Topic|Resource|Result|
 |:------:|:---:|:---:|
-|Machine Learning Designs Patterns|[Book](https://www.amazon.com/Machine-Learning-Design-Patterns-Preparation/dp/1098115783)|[`review`](./review/book_ML_Design_Patterns/)|
+|Machine Learning Designs Patterns|[Book](https://www.amazon.com/Machine-Learning-Design-Patterns-Preparation/dp/1098115783)|[`review`](./review/book_ML_design_patterns/)|
 |Designing Machine Learning Systems|[Book](https://www.amazon.com/Designing-Machine-Learning-Systems-Production-Ready/dp/1098107969)|`ing`|
-|Building Data Science Applications with FastAPI|[Book](https://github.com/PacktPublishing/Building-Data-Science-Applications-with-FastAPI)|[`review`](https://github.com/minsoo9506/FastAPI-study)|
-|FSDL 2022|[Youtube](https://fullstackdeeplearning.com/course/2022/)|[`review`](https://github.com/minsoo9506/FSDL2022-study)|
-|Testing and Monitoring Machine Learning Model Deployments|[Udemy](https://www.udemy.com/course/deployment-of-machine-learning-models/)|[`review`](https://github.com/minsoo9506/ML-testing-monitoring)|
+|FSDL 2022|[Youtube](https://fullstackdeeplearning.com/course/2022/)|[`repository`](https://github.com/minsoo9506/FSDL2022-study)|
+|Testing and Monitoring Machine Learning Model Deployments|[Udemy](https://www.udemy.com/course/deployment-of-machine-learning-models/)|[`repository`](https://github.com/minsoo9506/ML-testing-monitoring)|
 
 # Practice
 |Topic|Resource|Result|
