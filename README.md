@@ -10,27 +10,29 @@
 |k8s Basic|[Udemy](https://www.udemy.com/course/docker-kubernetes-2022/), [Youtube](https://www.youtube.com/playlist?list=PLApuRlvrZKohaBHvXAOhUD-RxD0uQ3z0c), [Book](http://www.yes24.com/Product/Goods/84927385)|[`review`](https://minsoo9506.github.io/categories/kubernetes/)|
 |Building Data Science Applications with FastAPI|[Book](https://github.com/PacktPublishing/Building-Data-Science-Applications-with-FastAPI)|[`repository`](https://github.com/minsoo9506/FastAPI-study)|
 |Airflow Basic|[Udemy](https://www.udemy.com/course/the-complete-hands-on-course-to-master-apache-airflow/)|[`review`](https://minsoo9506.github.io/categories/airflow/)|
-|Apache Airflow 기반의 데이터 파이프라인|Book|`ing`|
+|Apache Airflow 기반의 데이터 파이프라인|Book|`reading`|
 
 ## ML, ML System
 |Topic|Resource|Result|
 |:------:|:---:|:---:|
 |Machine Learning Designs Patterns|[Book](https://www.amazon.com/Machine-Learning-Design-Patterns-Preparation/dp/1098115783)|[`review`](./review/book_ML_design_patterns/)|
-|Designing Machine Learning Systems|[Book](https://www.amazon.com/Designing-Machine-Learning-Systems-Production-Ready/dp/1098107969)|`ing`|
+|Designing Machine Learning Systems|[Book](https://www.amazon.com/Designing-Machine-Learning-Systems-Production-Ready/dp/1098107969)|.|
 |FSDL 2022|[Youtube](https://fullstackdeeplearning.com/course/2022/)|[`repository`](https://github.com/minsoo9506/FSDL2022-study)|
 |Testing and Monitoring Machine Learning Model Deployments|[Udemy](https://www.udemy.com/course/deployment-of-machine-learning-models/)|[`repository`](https://github.com/minsoo9506/ML-testing-monitoring)|
 
 # Practice
 |Topic|Resource|Result|
 |:------:|:---:|:---:|
-|BentoML Tutorial|.|[`repository`](https://github.com/minsoo9506/BentoML-model-serving)|
+|BentoML Tutorial|공홈, Youtube|[`repository`](https://github.com/minsoo9506/BentoML-model-serving)|
 
 # Project
 |Topic|Resource|Result|
 |:------:|:---:|:---:|
 |ML Model Python Package for Production|Udemy|[`repository`](https://github.com/minsoo9506/fraudDetection)|
+|ML Engineer를 위한 MLOps 튜토리얼 - 따라하기|blog|[`repository`](https://github.com/minsoo9506/mlops-project-level0|
 
 # Other Sources
 - [모두의 MLOps](https://mlops-for-all.github.io/)
+- [ML Engineer를 위한 MLOps](https://mlops-for-mle.github.io/tutorial/)
 - [kyle-school | 쏘카 데이터 그룹 사내 신입/인턴을 대상으로 한 카일 스쿨](https://zzsza.github.io/kyle-school/)
 - [Boostcamp-AI-Tech-Product-Serving](https://github.com/zzsza/Boostcamp-AI-Tech-Product-Serving)
