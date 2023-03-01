@@ -29,7 +29,7 @@
 |Topic|Resource|Result|
 |:------:|:---:|:---:|
 |ML Model Python Package for Production|Udemy|[`repository`](https://github.com/minsoo9506/fraudDetection)|
-|ML Engineer를 위한 MLOps 튜토리얼 - 따라하기|blog|[`repository`](https://github.com/minsoo9506/mlops-project-level0|
+|ML Engineer를 위한 MLOps 튜토리얼 - 따라하기|blog|[`repository`](https://github.com/minsoo9506/mlops-project-level0)|
 
 # Other Sources
 - [모두의 MLOps](https://mlops-for-all.github.io/)
