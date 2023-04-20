@@ -5,6 +5,7 @@
 |Topic|Resource|Result|
 |:------:|:---:|:---:|
 |`ing` advanced python|Lecture, Book, Blog|[`repository`](https://github.com/minsoo9506/advanced-python-study)|
+|`ing` Java Basic|Lecture, Book||
 
 ## Tool
 |Topic|Resource|Result|
@@ -24,7 +25,7 @@
 |Designing Machine Learning Systems|[Book](https://www.amazon.com/Designing-Machine-Learning-Systems-Production-Ready/dp/1098107969)|.|
 |FSDL 2022|[Youtube](https://fullstackdeeplearning.com/course/2022/)|[`repository`](https://github.com/minsoo9506/FSDL2022-study)|
 |Testing and Monitoring Machine Learning Model Deployments|[Udemy](https://www.udemy.com/course/deployment-of-machine-learning-models/)|[`repository`](https://github.com/minsoo9506/ML-testing-monitoring)|
-|`ing` 머신러닝 시스템 디자인 패턴|[Book](http://www.yes24.com/Product/Goods/105119319)|repository|
+|머신러닝 시스템 디자인 패턴|[Book](http://www.yes24.com/Product/Goods/105119319)|.|
 
 # Practice
 |Topic|Resource|Result|
