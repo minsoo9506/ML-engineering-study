@@ -59,7 +59,7 @@
 - (2022.11) [(Lecture) FSDL 2022](https://fullstackdeeplearning.com/course/2022/)
   - [`my-study-repo`](https://github.com/minsoo9506/FSDL2022-study)
 - (2023.02) [(Lecture) Testing and Monitoring Machine Learning Model Deployments](https://www.udemy.com/course/deployment-of-machine-learning-models/)
-  - [`my-study-repository`](https://github.com/minsoo9506/ML-testing-monitoring)
+  - [`my-study-repo`](https://github.com/minsoo9506/ML-testing-monitoring)
 - (2023.04) [(Book) 머신러닝 시스템 디자인 패턴](http://www.yes24.com/Product/Goods/105119319)
 
 # Practice & Project
